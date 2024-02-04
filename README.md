@@ -1,4 +1,4 @@
-<h1> Cooking app in React </h1>
+<h1> Blog in React </h1>
 
 
 ## Languages et software
